@@ -1,3 +1,18 @@
+# Session keys or sensitive files
+.sesskey
+src/learn_fasthtml/.sesskey
+
+# Editor settings
+.zed/
+
+# Virtual environments
+venv/
+.env/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
